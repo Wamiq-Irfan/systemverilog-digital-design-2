@@ -48,5 +48,5 @@ module tb_register32;
     #20;
     $finish;
 end
-
 endmodule
+
